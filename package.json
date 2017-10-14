@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/JBEpstein/lab-07-http-server#readme",
   "dependencies": {
+    "cowsay": "^1.2.1",
     "expect": "^21.2.1",
-    "mocha": "^4.0.1"
+    "mocha": "^4.0.1",
+    "superagent": "^3.6.3"
   }
 }
